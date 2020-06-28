@@ -1,11 +1,11 @@
-<!doctype html>
+
 <html>
 <head>
 <title>Under Construction</title>
 </head>
 <body>
 
-<title>Site Maintenance</title>
+<title>Under Construction</title>
 <style>
   body { text-align: center; padding: 150px; }
   h1 { font-size: 50px; }
