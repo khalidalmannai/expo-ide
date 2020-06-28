@@ -1,11 +1,7 @@
-
+<!doctype html>
 <html>
 <head>
-<title>Under Construction</title>
-</head>
-<body>
-
-<title>Under Construction</title>
+<title>Expo IDE Help</title>
 <style>
   body { text-align: center; padding: 150px; }
   h1 { font-size: 50px; }
@@ -14,6 +10,8 @@
   a { color: #dc8100; text-decoration: none; }
   a:hover { color: #333; text-decoration: none; }
 </style>
+</head>
+<body>
 
 <article>
     <h1>Expo IDE Help Page</h1>
