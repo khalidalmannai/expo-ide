@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Expo IDE Help</title>
 
 </head>
 <body>
